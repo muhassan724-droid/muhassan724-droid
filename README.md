@@ -1,8 +1,12 @@
-# Hassan
+<div align="center">
 
-**AI Agents · SaaS Platforms · Automation Systems**
+# **HASSAN**
+
+### AI Agents · SaaS Platforms · Automation Systems
 
 Claude Ecosystem · Lovable + Supabase · 30+ Apps Shipped
+
+</div>
 
 ---
 
