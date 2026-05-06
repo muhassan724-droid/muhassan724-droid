@@ -1,4 +1,4 @@
-![Hassan](.hassan_github_banner.svg)
+![](./hassan_banner.svg)
 
 </div>
 
