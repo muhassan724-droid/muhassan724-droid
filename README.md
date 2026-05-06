@@ -1,10 +1,4 @@
-<div align="center">
-
-# **HASSAN**
-
-### AI Agents · SaaS Platforms · Automation Systems
-
-Claude Ecosystem | Lovable + Supabase 
+![Hassan](.hassan_github_banner.svg)
 
 </div>
 
