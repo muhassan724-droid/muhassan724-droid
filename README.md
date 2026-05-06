@@ -4,7 +4,7 @@
 
 ### AI Agents · SaaS Platforms · Automation Systems
 
-Claude Ecosystem · Lovable + Supabase · 30+ Apps Shipped
+Claude Ecosystem | Lovable + Supabase 
 
 </div>
 
