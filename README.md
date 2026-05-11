@@ -10,8 +10,6 @@ I build AI agents, SaaS platforms, and automation systems. 30+ apps, systems, an
 
 I've been writing code professionally since 2017 and building AI systems since before ChatGPT existed. 43 machine learning projects delivered, plus consulting work building multi-agent AI systems with LangGraph, RAG, and GPT-4o deployed on AWS EKS.
 
-I'm your main point of contact on every project. You talk to me on calls, I make the architecture decisions, and I'll tell you when something is a bad idea before you spend money on it. Behind me is a plethora of experience in QA, DevOps, and project management — with mature engineering practices: code reviews, automated testing, CI/CD pipelines, and AI-assisted quality checks baked into every sprint.
-
 ---
 
 ## What I Build
